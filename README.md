@@ -14,3 +14,5 @@
    2. wBTC
 
 forge install smartcontractkit/chainlink-brownie-contracts@0.6.1 --no-commit
+Load the .env variables
+source .env
